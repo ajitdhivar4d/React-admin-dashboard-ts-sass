@@ -50,7 +50,7 @@ const arr: DataType[] = [
 ];
 
 const Transaction = () => {
-  const [data] = useState<DataType>(arr);
+  const [data] = useState(arr);
 
   const Table = useCallback(
     TableHOC<DataType>(

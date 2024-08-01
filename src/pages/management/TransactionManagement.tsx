@@ -34,7 +34,6 @@ const TransactionManagement = () => {
   });
 
   const {
-    _id,
     address,
     city,
     country,
