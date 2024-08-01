@@ -1,0 +1,72 @@
+{
+  "categories": [
+    {
+      "value": 42,
+      "heading": "Laptops"
+    },
+    {
+      "value": 58,
+      "heading": "Shoes"
+    },
+    {
+      "value": 73,
+      "heading": "Smartphones"
+    },
+    {
+      "value": 86,
+      "heading": "Accessories"
+    }
+  ],
+
+  "transaction": [
+    {
+      "id": "txn001",
+      "amount": 1200,
+      "quantity": 3,
+      "discount": 5,
+      "status": "Completed"
+    },
+    {
+      "id": "txn002",
+      "amount": 3400,
+      "quantity": 7,
+      "discount": 10,
+      "status": "Pending"
+    },
+    {
+      "id": "txn003",
+      "amount": 560,
+      "quantity": 2,
+      "discount": 0,
+      "status": "Completed"
+    },
+    {
+      "id": "txn004",
+      "amount": 2900,
+      "quantity": 5,
+      "discount": 15,
+      "status": "Failed"
+    },
+    {
+      "id": "txn005",
+      "amount": 4500,
+      "quantity": 6,
+      "discount": 20,
+      "status": "Completed"
+    },
+    {
+      "id": "txn006",
+      "amount": 1500,
+      "quantity": 4,
+      "discount": 0,
+      "status": "Pending"
+    },
+    {
+      "id": "txn007",
+      "amount": 730,
+      "quantity": 1,
+      "discount": 25,
+      "status": "Completed"
+    }
+  ]
+}
